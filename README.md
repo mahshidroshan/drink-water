@@ -1,1 +1,1 @@
-live demo :point_right: https://mahshidroshan.github.io/drink-water/
+	[Live Demo](https://mahshidroshan.github.io/drink-water/)
